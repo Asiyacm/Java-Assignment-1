@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Trianglepattern {
+public class cTrianglepattern {
     public static void main(String[] args)
 
     {
